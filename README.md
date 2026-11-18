@@ -25,9 +25,6 @@ The module provides user aunthetication and profile management functionalities u
 authentication_module.py
 README.md
 
-**Installation**
-pip install -r requirements.txt
-
 **Run Application**
 streamlit run authentication_module.py
 
