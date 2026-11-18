@@ -23,7 +23,6 @@ The module provides user aunthetication and profile management functionalities u
 
 **Project Structure**
 authentication_module.py
-requirements.txt
 README.md
 
 **Installation**
